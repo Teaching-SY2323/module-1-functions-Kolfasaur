@@ -14,7 +14,6 @@ int main()
     cout << "Enter y Value: ";
     cin >> y;
 
-
     cout << Add2Values(x, y);
 
     return 0;
