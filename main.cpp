@@ -15,8 +15,6 @@ int main()
     cin >> y;
 
     cout << Add2Values(x, y);
-
-
     return 0;
 }
 
