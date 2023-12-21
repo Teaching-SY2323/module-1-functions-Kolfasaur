@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int Add2Values(int, int);
+int Add2Values(float, float);
 
 int main()
 {
@@ -20,7 +20,7 @@ int main()
     return 0;
 }
 
-int Add2Values(int x, int y)
+int Add2Values(float x, float y)
 {
     return x+y;
 }
