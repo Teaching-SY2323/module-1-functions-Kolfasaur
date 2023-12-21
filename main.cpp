@@ -16,12 +16,12 @@ int main()
 
     cout << "__________________";
 
-    cout << Add2Values(x, y)
+    cout << Add2Values(x, y);
 
     return 0;
 }
 
 int Add2Values(int x, int y)
 {
-    // make your code here
+    return x+y;
 }
