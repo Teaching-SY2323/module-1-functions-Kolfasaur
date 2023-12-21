@@ -9,7 +9,7 @@ int main()
     int x, y;
     cout
         << "-- Add 2 Values --\n"
-        << "Enter x Values: "
+        << "Enter x Values: ";
     cin >> x;
     cout << "Enter y Value: ";
     cin >> y;
