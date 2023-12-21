@@ -8,7 +8,7 @@ int main()
 {
     int x, y;
     cout
-        << "-- Add 2 Values --\n";
+        << "-- Add 2 Values --\n"
         << "Enter x Values: ";
     cin >> x;
     cout << "Enter y Value: ";
